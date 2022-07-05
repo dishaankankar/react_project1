@@ -1,0 +1,12 @@
+.items-image{
+    height:200px;
+    width: 265px;
+    margin-top: 7px;
+    margin-left: 1px;
+}
+.items-structure-container{
+    border:2px solid rgb(99, 75, 206);
+    padding:15px;
+    border-radius: 10px;
+    background-color:beige;
+}
